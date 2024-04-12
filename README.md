@@ -4,27 +4,27 @@
 4, 8, 16, 24, 32, 40, 48, 56
 
 # Padding
-p-{value} = padding: {value}px;  
+p-{value} = padding: {value}rem;  
 
-pl-{value} = padding-left: {value}px;  
+pl-{value} = padding-left: {value}rem;  
 
-pr-{value} = padding-right: {value}px;  
+pr-{value} = padding-right: {value}rem;  
 
-pt-{value} = padding-top: {value}px;  
+pt-{value} = padding-top: {value}rem;  
 
-pb-{value} = padding-bottom: {value}px;  
+pb-{value} = padding-bottom: {value}rem;  
 
 
 # Marging
-m-{value} = margin: {value}px;  
+m-{value} = margin: {value}rem;  
 
-ml-{value} = margin-left: {value}px;  
+ml-{value} = margin-left: {value}rem;  
 
-mr-{value} = margin-right: {value}px;  
+mr-{value} = margin-right: {value}rem;  
 
-mt-{value} = margin-top: {value}px;  
+mt-{value} = margin-top: {value}rem;  
 
-mb-{value} = margin-bottom: {value}px;  
+mb-{value} = margin-bottom: {value}rem;  
 
 
 # Width 
@@ -42,3 +42,7 @@ w-16 = width: 16.6%;
 
 
 # flex
+
+d-flex = display: flex;
+
+gap-{value} = gap: {value}rem; 
