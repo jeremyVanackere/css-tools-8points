@@ -306,6 +306,9 @@
 .flex-horizontal-start {
     justify-content: flex-start;
 }
+.flex-wrap {
+    flex-wrap: wrap;
+}
 .gap-025 {
     gap: 0.25rem;
 }
